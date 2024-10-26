@@ -54,7 +54,7 @@ p{margin: 0px 0px 10px 0px}
             <h1 class="header1 ">Christine Joy V. Estrada</h1>
             <div style="width: 100%; border: 1px solid;"></div>
             <h3 class="header3">RESUME OBJECTIVE</h3>
-            <p>To obtain a position who aims to use my skills, abilities and knowledge as a trainee to be part of this organization that provides many opportunities to do my best and willingness.</p>
+            <p>To obtain a position that aims to use my skills, abilities and knowledge as a trainee to be part of this organization that provides many opportunities to do my best and willingness.</p>
             <div style="width: 100%;  border: 1px solid;"></div>
             <h3 class="header3">PROFESSIONAL SKILLS</h3>
             <div class="skills">
